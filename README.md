@@ -7,7 +7,7 @@ The **goal of the project** was to clean and analyze data using Google Sheets to
 
 Project link: [Vacation Rental Market Analysis](https://docs.google.com/spreadsheets/d/16bcWJf49hZHGHhQKL9A-Ky9aKMbb5U6YDSwfTBidfjg/edit?gid=926636957#gid=926636957)
 
-## Key Tasks
+## Key Tasks:
 
 * Cleaned, analyzed, and interpreted raw data
 * Identified key neighborhoods by the number of reviews
